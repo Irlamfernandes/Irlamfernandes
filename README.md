@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=10&height=250&section=header&text=Irlam%20da%20Silva&fontSize=75&desc=Full-Stack%20Developer&descAlignY=70&descAlign=50&fontColor=00f2fe&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,111827,1f2937&height=250&section=header&text=Irlam%20da%20Silva&fontSize=85&fontColor=00f2fe&animation=fadeIn" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&height=60&lines=Desenvolvedor+Full-Stack;Criando+Sistemas+Web+e+E-commerces;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais" alt="Typing SVG" />
+  </a>
 </div>
 
 ## 👋 Olá, eu sou o Irlam!
