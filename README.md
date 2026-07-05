@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Irlam%20da%20Silva&fontSize=80&desc=Full-Stack%20Developer&descAlignY=70&descAlign=50&fontColor=00f2fe" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=10&height=250&section=header&text=Irlam%20da%20Silva&fontSize=75&desc=Full-Stack%20Developer&descAlignY=70&descAlign=50&fontColor=00f2fe&animation=fadeIn" width="100%" />
 </div>
 
 ## 👋 Olá, eu sou o Irlam!
 
 Sou um **Desenvolvedor Full-Stack** movido pelo desafio de transformar ideias em **soluções reais e eficientes**. Meu foco não é apenas escrever linhas de código, mas entregar valor de negócios por meio de **e-commerces robustos, landing pages de alta conversão e sistemas web sob medida** para meus clientes.
 
-Com uma visão integrada do desenvolvimento, atuo desde a criação de interfaces ricas, dinâmicas e responsivas até a estruturação de arquiteturas sólidas, escaláveis e seguras no servidor. Domino o ecossistema full-stack para resolver problemas reais com tecnologia.
+Com uma visão integrada do desenvolvimento, atuo desde a criação de interfaces ricas, dinâmicas e responsivas até a estruturação de arquiteturas sólidas, scaláveis e seguras no servidor. Domino o ecossistema full-stack para resolver problemas reais com tecnologia.
 
 ---
 
@@ -36,8 +36,10 @@ Muitos dos meus projetos são comerciais, entregas de freelas ou repositórios f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irlamfernandes&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe" alt="Top Linguagens" height="195" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irlamfernandes&theme=tokyonight&hide_border=true&fire=00f2fe&ring=00f2fe" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irlamfernandes&theme=tokyonight&hide_border=true&fire=00f2fe&ring=00f2fe" alt="GitHub Streak" width="100%" max-width="400px" />
 </div>
 
 ---
