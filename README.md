@@ -1,56 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=220&section=header&text=Irlam%20da%20Silva&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Irlam%20da%20Silva&fontSize=80&desc=Full-Stack%20Developer&descAlignY=70&descAlign=50&fontColor=00f2fe" />
 </div>
 
-<br />
+## 👋 Olá, eu sou o Irlam!
 
-## 🚀 Sobre Mim
-Olá! Sou desenvolvedor Full-Stack focado em construir aplicações web modernas, robustas e escaláveis. Adoro transformar ideias em código e criar soluções que resolvem problemas reais, desde back-ends estruturados até front-ends dinâmicos e intuitivos.
+Sou um **Desenvolvedor Full-Stack** movido pelo desafio de transformar ideias em **soluções reais e eficientes**. Meu foco não é apenas escrever linhas de código, mas entregar valor de negócios por meio de **e-commerces robustos, landing pages de alta conversão e sistemas web sob medida** para meus clientes.
 
-- 💼 Atualmente atuando no desenvolvimento e manutenção de sistemas corporativos.
-- 🎓 Estudante de Ciência da Computação / Engenharia de Software.
-- 🛠️ Desenvolvo e gerencio repositórios profissionais utilizando containers e arquiteturas modernas.
-- 💡 Interesses em Inteligência Artificial, IoT e Automações de sistemas.
+Com uma visão integrada do desenvolvimento, atuo desde a criação de interfaces ricas, dinâmicas e responsivas até a estruturação de arquiteturas sólidas, escaláveis e seguras no servidor. Domino o ecossistema full-stack para resolver problemas reais com tecnologia.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-### Back-End
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</div>
+Analisando meus projetos (como *landing_pages*, *sistemas comerciais* e *e-commerces*), estas são as tecnologias que compõem meu arsenal:
 
-### Front-End
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-</div>
+### 💻 Front-end (Interfaces Dinâmicas e Responsivas)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### DevOps & Ferramentas
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+### ⚙️ Back-end (Sistemas Robustos e Escaláveis)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Produtividade e Estatísticas
+
+Muitos dos meus projetos são comerciais, entregas de freelas ou repositórios fechados para clientes, por isso valorizo a contagem de commits privados.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irlamfernandes&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irlamfernandes&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Irlamfernandes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00f2fe&icon_color=00f2fe" alt="Estatísticas do Irlam" height="195" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irlamfernandes&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe" alt="Top Linguagens" height="195" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irlamfernandes&theme=tokyonight&hide_border=true&fire=00f2fe&ring=00f2fe" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📬 Vamos nos conectar?
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <i>"Construindo o futuro, uma linha de código por vez."</i>
 </div>
