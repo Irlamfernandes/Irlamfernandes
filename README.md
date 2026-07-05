@@ -32,8 +32,8 @@ Analisando meus projetos (como *landing_pages*, *sistemas comerciais* e *e-comme
 Muitos dos meus projetos são comerciais, entregas de freelas ou repositórios fechados para clientes, por isso valorizo a contagem de commits privados.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irlamfernandes&show_icons=true&theme=tokyonight&count_private=true&title_color=00f2fe&icon_color=00f2fe" alt="Estatísticas do Irlam" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irlamfernandes&layout=compact&theme=tokyonight&title_color=00f2fe" alt="Top Linguagens" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Irlamfernandes&show_icons=true&theme=tokyonight&count_private=true&title_color=00f2fe&icon_color=00f2fe" alt="Estatísticas do Irlam" height="195" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Irlamfernandes&layout=compact&theme=tokyonight&title_color=00f2fe" alt="Top Linguagens" height="195" />
 </div>
 
 ---
